@@ -1,4 +1,4 @@
-#  Food Category App - Bài tập Android Networking
+#  Food Category App - Mobile Programing
 
 Đây là dự án bài tập Android minh họa cách kết nối API, xử lý dữ liệu JSON và hiển thị danh sách hình ảnh sử dụng các thư viện phổ biến nhất hiện nay.
 
